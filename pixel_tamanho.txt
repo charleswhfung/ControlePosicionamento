@@ -1,0 +1,21 @@
+
+
+
+
+
+
+raio - diametro_medido/2
+
+66 pixels - 5.5/2 cm
+
+1 pixel = 0,42 cm
+
+
+
+altura = 20 cm = 480 linhas
+largura = 28,5 cm = 640 colunas
+
+
+altura = 20 cm/480 linhas = 0,042
+
+largura = 28,5/640 = 0,0445
