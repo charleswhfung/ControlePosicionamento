@@ -40,7 +40,7 @@ while(True):
     area_medida = area*tamanho_pixel
 
     fonte = cv2.FONT_HERSHEY_SCRIPT_SIMPLEX
-    cv2.putText(frame,str(tamanho_pixel),centro,fonte,0.5,(255,255,255),2,cv2.LINE_AA)
+    cv2.putText(frame,str(area_medida),centro,fonte,0.5,(255,255,255),2,cv2.LINE_AA)
 
     cv2.imshow('frame',frame)
     cv2.imshow('ImagemSegmentada',ImagemSegmentada)
